@@ -4,5 +4,9 @@
   </head>
   <body>
       <h1>Título de tese</h1>
+      <h2>Título de tese</h2>
+      <h3>Título de tese</h3>
+      <h4>Título de tese</h4>
+      <h5>Título de tese</h5> 
   </body>
 </html>
