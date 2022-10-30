@@ -4,5 +4,6 @@
   </head>
   <body>
       <h1>Título de tese</h1>
-  </body>
-</html>
+      <div class="teste">Minha div</div>
+  </body> 
+</html> 
